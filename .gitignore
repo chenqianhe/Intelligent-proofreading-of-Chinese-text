@@ -1,0 +1,10 @@
+/ernie_csc_infer_model/
+/ernie_csc_pre_ckpt/
+/models/
+/nezha_ckpt/
+/nezha_el_ckpt/
+/nezha_ft_ckpt/
+/t5_ft_ckpt/
+/all_data/
+models.zip
+preliminary_a_test_inference.json
